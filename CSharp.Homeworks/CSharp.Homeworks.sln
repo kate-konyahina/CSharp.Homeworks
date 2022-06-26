@@ -3,7 +3,31 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.2.32602.215
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HW.01.Casting", "HW.01.Casting\HW.01.Casting.csproj", "{D7FC70F3-E366-4F17-9C37-1BEC40F9A5CB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HW.02.Types", "HW.02.Types\HW.02.Types.csproj", "{9335C487-48E8-4940-B0E8-F07DF2603E40}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HW.03.QuadraticFormula", "HW.03.QuadraticFormula\HW.03.QuadraticFormula.csproj", "{002C510A-27B9-4140-9BD5-210C5726CD3E}"
+EndProject
 Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D7FC70F3-E366-4F17-9C37-1BEC40F9A5CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7FC70F3-E366-4F17-9C37-1BEC40F9A5CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7FC70F3-E366-4F17-9C37-1BEC40F9A5CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7FC70F3-E366-4F17-9C37-1BEC40F9A5CB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9335C487-48E8-4940-B0E8-F07DF2603E40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9335C487-48E8-4940-B0E8-F07DF2603E40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9335C487-48E8-4940-B0E8-F07DF2603E40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9335C487-48E8-4940-B0E8-F07DF2603E40}.Release|Any CPU.Build.0 = Release|Any CPU
+		{002C510A-27B9-4140-9BD5-210C5726CD3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{002C510A-27B9-4140-9BD5-210C5726CD3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{002C510A-27B9-4140-9BD5-210C5726CD3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{002C510A-27B9-4140-9BD5-210C5726CD3E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
