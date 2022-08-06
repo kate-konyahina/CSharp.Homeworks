@@ -47,7 +47,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HW.07.Task2.AssemblyOne", "
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HW.07.Task2.AssemblyTwo", "HW.07.Task2.AssemblyTwo\HW.07.Task2.AssemblyTwo.csproj", "{F37402E4-7FCE-4779-B6B8-159D3367BA1B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HW.07.Task3", "HW.07.Task3\HW.07.Task3.csproj", "{E3F37117-9294-4744-897E-060A7A1119A7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HW.07.Task3", "HW.07.Task3\HW.07.Task3.csproj", "{E3F37117-9294-4744-897E-060A7A1119A7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HW.10.Moto", "HW.10.Moto\HW.10.Moto.csproj", "{9C024C36-A4B3-496C-B437-B3078C594F44}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -109,6 +111,10 @@ Global
 		{E3F37117-9294-4744-897E-060A7A1119A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E3F37117-9294-4744-897E-060A7A1119A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E3F37117-9294-4744-897E-060A7A1119A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C024C36-A4B3-496C-B437-B3078C594F44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C024C36-A4B3-496C-B437-B3078C594F44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C024C36-A4B3-496C-B437-B3078C594F44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C024C36-A4B3-496C-B437-B3078C594F44}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
